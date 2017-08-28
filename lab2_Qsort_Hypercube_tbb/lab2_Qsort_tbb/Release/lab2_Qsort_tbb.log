@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  lab2_Qsort_tbb.cpp
+lab2_Qsort_tbb.obj : error LNK2001: неразрешенный внешний символ ""public: void __thiscall tbb::task_scheduler_init::initialize(int,unsigned int)" (?initialize@task_scheduler_init@tbb@@QAEXHI@Z)"
+lab2_Qsort_tbb.obj : error LNK2001: неразрешенный внешний символ ""public: void __thiscall tbb::task_scheduler_init::terminate(void)" (?terminate@task_scheduler_init@tbb@@QAEXXZ)"
+C:\Users\Doronin Roman\documents\visual studio 2015\Projects\lab2_Qsort_tbb\Release\lab2_Qsort_tbb.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

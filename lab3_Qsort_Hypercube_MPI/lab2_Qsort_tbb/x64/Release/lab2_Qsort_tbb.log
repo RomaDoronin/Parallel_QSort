@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  lab2_Qsort_tbb.cpp
+lab2_Qsort_tbb.cpp(212): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(465): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(475): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(478): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(485): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(520): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(525): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(536): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(557): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab2_Qsort_tbb.vcxproj -> C:\Users\Doronin Roman\Documents\Visual Studio 2015\Projects\lab3_Qsort_tbb_MPI\x64\Release\lab2_Qsort_tbb.exe
+  lab2_Qsort_tbb.vcxproj -> C:\Users\Doronin Roman\Documents\Visual Studio 2015\Projects\lab3_Qsort_tbb_MPI\x64\Release\lab2_Qsort_tbb.pdb (Full PDB)

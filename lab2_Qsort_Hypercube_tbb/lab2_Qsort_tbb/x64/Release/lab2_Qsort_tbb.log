@@ -1,0 +1,10 @@
+﻿  lab2_Qsort_tbb.cpp
+lab2_Qsort_tbb.cpp(227): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+lab2_Qsort_tbb.cpp(230): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  7 of 150 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab2_Qsort_tbb.vcxproj -> C:\Users\Doronin Roman\Documents\Visual Studio 2015\Projects\lab2_Qsort_tbb\x64\Release\lab2_Qsort_tbb.exe
+  lab2_Qsort_tbb.vcxproj -> C:\Users\Doronin Roman\Documents\Visual Studio 2015\Projects\lab2_Qsort_tbb\x64\Release\lab2_Qsort_tbb.pdb (Full PDB)
